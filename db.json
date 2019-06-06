@@ -1,6 +1,6 @@
 {
   "images": [
-    { "url": /images/bt2.jpg },
-    { "url": /images/guyafterfront.png }
+    { "url": "/images/bt2.jpg" },
+    { "url": "/images/guyafterfront.png" }
   ]
 }
